@@ -4,4 +4,4 @@
 
 ## Introduction
 
-A cryptocurrency app where I was using React and multiple APIs powered by https://rapidapi.com.
+A cryptocurrency app where I was using/learning React.js and multiple APIs powered by https://rapidapi.com.
